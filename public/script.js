@@ -153,4 +153,3 @@ document.addEventListener('DOMContentLoaded', () => {
     uploadBtn.addEventListener('click', () => {
         alert('File upload functionality is not implemented yet.');
     });
-});
